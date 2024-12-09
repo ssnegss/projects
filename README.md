@@ -1,6 +1,12 @@
 # projects
 
--- https://github.com/ssnegss/diploma - diploma
+-- sstrello
+https://github.com/ssnegss/sstrello-backend
+https://github.com/ssnegss/sstrello
+
+-- https://github.com/ssnegss/apple-website
+
+-- https://github.com/ssnegss/diploma
 
 -- https://github.com/CanUFeelMyHeart/expertPlus
 
