@@ -4,4 +4,4 @@
 - https://github.com/ssnegss/sstrello-backend
 - https://github.com/ssnegss/sstrello
 
--- https://github.com/ssnegss/apple-website
+-- https://github.com/ssnegss/apple-website (https://apple-three-pied.vercel.app/)
